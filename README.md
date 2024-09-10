@@ -1,2 +1,3 @@
-# multilingual-bio-ner-and-el-msc-diss
-Applying Recent Transformer-based Entity Recognition and Linking Algorithms for the Biomedical Domain, to a Multilingual Scenario
+# Entity Recognition and Linking for Multilingual Biomedical Documents
+
+The code will be available soon...
