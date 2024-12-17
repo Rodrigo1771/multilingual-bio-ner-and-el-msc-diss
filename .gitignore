@@ -1,0 +1,9 @@
+.DS_Store
+.idea/
+.venv/
+
+datasets/
+
+papers/dissertation-final
+papers/dissertation-plan
+papers/multicardioner-submission-paper
